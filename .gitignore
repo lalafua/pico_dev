@@ -1,0 +1,171 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Build directories
+build/
+Build/
+BUILD/
+debug/
+Debug/
+release/
+Release/
+
+# Raspberry Pi Pico specific
+*.elf
+*.hex
+*.bin
+*.uf2
+*.dis
+*.map
+*.elf.map
+pico_flash_region.ld
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Visual Studio
+*.vcxproj.user
+*.vcxproj.filters
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# Dev-C++
+*.dev
+
+# QtCreator
+*.autosave
+
+# KDevelop4
+*.kdev4
+*.tmp
+
+# Eclipse CDT
+.autotools
+.cproject
+.metadata
+.project
+.settings/
+
+# Codelite
+*.project
+*.workspace
+*.session
+*.tags
+*.orig
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archive files (you may want to keep some)
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Generated documentation
+doc/
+docs/html/
+docs/latex/
+
+# Package manager
+conan.lock
+vcpkg_installed/
+
+# Test results
+test_results/
+Testing/
+
+# Coverage reports
+*.gcov
+*.gcno
+*.gcda
+coverage/
+*.info
